@@ -1,0 +1,155 @@
+ID,Name,Age,Disease,Heart Rate,Blood Pressure,Cholestrol Level,Sugar Level
+1,Ali Khan,55,Hypertension,110,150,260,200
+2,Ahmed Raza,60,Diabetes,108,145,250,210
+3,Hassan Ali,52,Heart Disease,115,160,270,220
+4,Umar Farooq,58,Hypertension,120,155,265,205
+5,Usman Tariq,50,Diabetes,105,148,255,195
+6,Bilal Ahmed,62,Heart Disease,118,162,275,225
+7,Saad Malik,57,Hypertension,112,150,260,200
+8,Zain Abbas,53,Diabetes,107,147,252,190
+9,Talha Shah,61,Heart Disease,119,158,268,215
+10,Imran Sheikh,56,Hypertension,111,149,258,198
+11,Kashif Ali,59,Diabetes,116,153,262,205
+12,Naveed Iqbal,54,Heart Disease,113,151,259,202
+13,Shahid Khan,63,Hypertension,121,165,278,230
+14,Adnan Malik,51,Diabetes,106,146,248,188
+15,Farhan Raza,58,Heart Disease,117,157,266,210
+16,Kamran Ali,55,Hypertension,109,152,261,203
+17,Salman Ahmed,60,Diabetes,114,154,263,207
+18,Asif Khan,57,Heart Disease,118,159,269,218
+19,Faizan Malik,52,Hypertension,105,145,245,185
+20,Arslan Raza,61,Diabetes,120,160,270,222
+21,Shahbaz Ali,56,Heart Disease,112,150,260,200
+22,Mudassir Khan,59,Hypertension,116,153,262,206
+23,Waqas Ahmed,54,Diabetes,108,147,250,192
+24,Rizwan Malik,62,Heart Disease,119,161,272,224
+25,Sajid Ali,55,Hypertension,110,149,258,198
+26,Irfan Khan,58,Diabetes,115,155,264,209
+27,Adeel Malik,53,Heart Disease,118,158,268,216
+28,Tariq Mehmood,60,Hypertension,107,146,248,189
+29,Nasir Ali,57,Diabetes,113,152,261,204
+30,Shakir Khan,63,Heart Disease,122,166,280,232
+31,Azhar Malik,51,Hypertension,104,145,245,186
+32,Junaid Ahmed,56,Diabetes,111,150,259,199
+33,Shan Ali,59,Heart Disease,117,157,266,212
+34,Imtiaz Khan,54,Hypertension,108,148,252,193
+35,Haroon Malik,61,Diabetes,116,154,263,208
+36,Ammar Ali,58,Heart Disease,119,160,271,221
+37,Waqar Khan,55,Hypertension,110,149,258,197
+38,Qasim Malik,52,Diabetes,105,145,245,185
+39,Shoaib Ahmed,60,Heart Disease,118,159,269,217
+40,Adil Khan,57,Hypertension,112,151,260,201
+41,Faisal Malik,63,Diabetes,121,165,277,229
+42,Noman Ali,56,Heart Disease,114,153,262,206
+43,Usaid Khan,59,Hypertension,117,156,265,210
+44,Sheryar Malik,54,Diabetes,109,148,253,194
+45,Ahsan Ali,61,Heart Disease,118,160,270,220
+46,Zeeshan Khan,58,Hypertension,110,149,258,198
+47,Rehan Malik,53,Diabetes,106,146,248,188
+48,Hamza Ali,62,Heart Disease,120,162,274,226
+49,Saqlain Khan,55,Hypertension,111,150,260,200
+50,Arham Malik,57,Diabetes,115,155,264,209
+51,Ali Hassan,45,Flu,78,120,180,110
+52,Ahmad Bilal,39,Cold,72,118,170,105
+53,Hassan Raza,41,Asthma,80,122,175,108
+54,Umar Ali,36,Flu,76,115,165,100
+55,Usman Khan,48,Cold,82,125,185,115
+56,Bilal Raza,43,Asthma,79,121,178,109
+57,Saad Ali,37,Flu,74,116,168,102
+58,Zain Khan,46,Cold,81,124,182,114
+59,Talha Raza,40,Asthma,77,119,172,107
+60,Imran Ali,35,Flu,73,114,160,98
+61,Kashif Khan,47,Cold,83,126,188,118
+62,Naveed Ali,42,Asthma,78,120,176,110
+63,Shahid Raza,38,Flu,75,117,169,103
+64,Adnan Khan,44,Cold,80,123,181,112
+65,Farhan Ali,33,Asthma,76,118,170,105
+66,Kamran Raza,49,Flu,84,128,190,120
+67,Salman Khan,41,Cold,79,121,178,109
+68,Asif Ali,36,Asthma,74,115,165,100
+69,Faizan Raza,45,Flu,81,124,182,113
+70,Arslan Khan,39,Cold,77,119,172,106
+71,Shahbaz Ali,34,Asthma,73,114,160,98
+72,Mudassir Khan,48,Flu,82,126,186,117
+73,Waqas Ali,42,Cold,78,120,176,110
+74,Rizwan Khan,37,Asthma,75,116,168,102
+75,Sajid Ali,46,Flu,80,123,181,112
+76,Irfan Khan,40,Cold,77,118,170,105
+77,Adeel Malik,35,Asthma,74,115,165,100
+78,Tariq Ali,49,Flu,84,129,192,121
+79,Nasir Khan,43,Cold,79,121,178,109
+80,Shakir Ali,38,Asthma,76,117,169,103
+81,Azhar Khan,44,Flu,80,123,181,112
+82,Junaid Ali,41,Cold,78,120,176,110
+83,Shan Khan,36,Asthma,74,115,165,100
+84,Imtiaz Ali,47,Flu,83,127,188,118
+85,Haroon Khan,39,Cold,77,118,170,105
+86,Ammar Ali,45,Asthma,81,124,182,114
+87,Waqar Khan,33,Flu,72,113,158,96
+88,Qasim Ali,48,Cold,82,125,185,115
+89,Shoaib Khan,42,Asthma,78,120,176,110
+90,Adil Ali,37,Flu,75,116,168,102
+91,Faisal Khan,46,Cold,80,123,181,112
+92,Noman Ali,40,Asthma,77,118,170,105
+93,Usaid Khan,35,Flu,73,114,160,98
+94,Sheryar Ali,49,Cold,84,128,190,120
+95,Ahsan Khan,41,Asthma,79,121,178,109
+96,Zeeshan Ali,38,Flu,76,117,169,103
+97,Rehan Khan,44,Cold,80,123,181,112
+98,Hamza Ali,36,Asthma,74,115,165,100
+99,Saqlain Khan,47,Flu,83,127,188,118
+100,Arham Ali,39,Cold,77,118,170,105
+101,Ali Zafar,52,Hypertension,92,135,210,150
+102,Ahmed Zafar,55,Diabetes,95,138,220,165
+103,Hassan Zafar,50,Heart Disease,90,132,205,140
+104,Umar Zafar,48,Hypertension,88,130,200,135
+105,Usman Zafar,60,Diabetes,97,139,225,170
+106,Bilal Zafar,53,Heart Disease,93,136,215,155
+107,Saad Zafar,51,Hypertension,91,134,208,145
+108,Zain Zafar,49,Diabetes,94,137,218,160
+109,Talha Zafar,56,Heart Disease,96,138,222,168
+110,Imran Zafar,54,Hypertension,92,135,210,150
+111,Kashif Zafar,47,Diabetes,89,131,198,132
+112,Naveed Zafar,52,Heart Disease,90,133,205,140
+113,Shahid Zafar,58,Hypertension,95,139,223,169
+114,Adnan Zafar,46,Diabetes,88,130,200,135
+115,Farhan Zafar,57,Heart Disease,96,138,222,168
+116,Kamran Zafar,50,Hypertension,91,134,208,145
+117,Salman Zafar,55,Diabetes,94,137,218,160
+118,Asif Zafar,53,Heart Disease,92,135,210,150
+119,Faizan Zafar,48,Hypertension,89,131,198,132
+120,Arslan Zafar,60,Diabetes,97,139,225,170
+121,Shahbaz Zafar,54,Heart Disease,93,136,215,155
+122,Mudassir Zafar,51,Hypertension,90,133,205,140
+123,Waqas Zafar,56,Diabetes,95,138,220,165
+124,Rizwan Zafar,49,Heart Disease,91,134,208,145
+125,Sajid Zafar,52,Hypertension,92,135,210,150
+126,Irfan Zafar,47,Diabetes,89,131,198,132
+127,Adeel Zafar,55,Heart Disease,94,137,218,160
+128,Tariq Zafar,50,Hypertension,90,133,205,140
+129,Nasir Zafar,58,Diabetes,96,138,222,168
+130,Shakir Zafar,53,Heart Disease,93,136,215,155
+131,Azhar Zafar,46,Hypertension,88,130,200,135
+132,Junaid Zafar,57,Diabetes,96,138,222,168
+133,Shan Zafar,51,Heart Disease,91,134,208,145
+134,Imtiaz Zafar,54,Hypertension,92,135,210,150
+135,Haroon Zafar,48,Diabetes,90,132,205,140
+136,Ammar Zafar,59,Heart Disease,97,139,225,170
+137,Waqar Zafar,50,Hypertension,91,134,208,145
+138,Qasim Zafar,56,Diabetes,95,138,220,165
+139,Shoaib Zafar,52,Heart Disease,93,136,215,155
+140,Adil Zafar,47,Hypertension,89,131,198,132
+141,Faisal Zafar,55,Diabetes,94,137,218,160
+142,Noman Zafar,49,Heart Disease,91,134,208,145
+143,Usaid Zafar,53,Hypertension,92,135,210,150
+144,Sheryar Zafar,58,Diabetes,96,138,222,168
+145,Ahsan Zafar,51,Heart Disease,90,133,205,140
+146,Zeeshan Zafar,54,Hypertension,92,135,210,150
+147,Rehan Zafar,48,Diabetes,89,131,198,132
+148,Hamza Zafar,57,Heart Disease,95,138,220,165
+149,Saqlain Zafar,50,Hypertension,91,134,208,145
+150,Arham Zafar,52,Diabetes,93,136,215,155
+101,Sadia,30,Love,80,130,120,100
+151,Zubair,20,null,100,120,150,80
+p001,zubair,20,s,100,120,80,82
+200,ibraheem,15,NULL,80,120,80,80
